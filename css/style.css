@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Chewy&display=swap");
+.chewy-regular {
+  font-family: "Chewy", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.chewy-bold {
+  font-family: "Chewy", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+.black-bg {
+  background-color: #070707;
+}
+.green-text {
+  color: #4e7730;
+}
+.dices {
+  margin-top: 50px;
+}
